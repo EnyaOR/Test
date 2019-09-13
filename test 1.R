@@ -3,6 +3,8 @@ require(dplyr)
 require(plyr)
 require(Rmisc)
 
+# This code is even better...
+
 #### Avg RHU and number years RHU>1 for all habitats by region ####
 ####WOODLAND####
 regioninput<-read.csv(file.choose(new=F))
